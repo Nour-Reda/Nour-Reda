@@ -10,7 +10,7 @@ A Computer Science Student & Tech Enthusiast
 🤖 Exploring Artificial Intelligence.<br>
 🔐 Interested in Cybersecurity.<br>
 🚀 Learning, building, and improving one project at a time.<br>
-📫 Feel free to connect with me on LinkedIn!<br>
+📫 Feel free to reach out: nourreda.mail@gmail.com <br>
 <br>
 <br>
 Languages and Tools: 
