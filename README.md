@@ -13,6 +13,6 @@ A Computer Science Student & Tech Enthusiast
 Languages and Tools: 
 <div align="left">
 <br>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,php,react,cs,figma,oracle,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,php,react,cs,figma,mysql" />
 </br>
 </div>
